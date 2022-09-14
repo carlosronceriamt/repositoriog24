@@ -9,5 +9,8 @@
  * @author QV-4563
  */
 public class ejercicio1 {
+ public void metodo(){
+  System.out.println ("logiaca metodo");
     
+}
 }
